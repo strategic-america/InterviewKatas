@@ -6,7 +6,7 @@ fast food!
 I am making quick snacks but I would like a program to help organise people's orders and what I should be
 doing.
 
-As my business grows, I will most definately need to add features to the program.  I don't want to get ahead of myself though
+As my business grows, I will most definitely need to add features to the program.  I don't want to get ahead of myself though
 so please complete each step in its entirety before moving on.
 
 NOTE: The output should act like a schedule by displaying the time at which things would happen,
